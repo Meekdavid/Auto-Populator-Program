@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "DSTV_Autopopulate": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
