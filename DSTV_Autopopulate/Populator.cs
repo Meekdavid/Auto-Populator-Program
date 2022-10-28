@@ -40,7 +40,7 @@ namespace DSTV_Autopopulate
                 {
                     RequestFormat = DataFormat.Json
                 };
-                Request.AddHeader("x-api-key", "T7Wi2Q7tHFkq6sxU5WaUSBIGg3ynb96Qi74RnAeY6ys=");
+                Request.AddHeader("x-api-key", "Key");
                 Request.AddBody(dstvRequeryRequest);
 
                 var Response = Client.Execute(Request);
