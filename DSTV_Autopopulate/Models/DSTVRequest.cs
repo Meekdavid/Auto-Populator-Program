@@ -1,4 +1,4 @@
-Effective effici
+Effective effic
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
