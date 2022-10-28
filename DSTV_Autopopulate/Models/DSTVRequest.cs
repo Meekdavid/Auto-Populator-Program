@@ -1,4 +1,4 @@
-Effective ef
+Effective e
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
