@@ -1,4 +1,4 @@
-Effective communication effi
+Effective communication eff
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
