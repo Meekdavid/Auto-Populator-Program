@@ -1,4 +1,4 @@
-Effective comm
+Effective com
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
