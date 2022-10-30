@@ -1,4 +1,4 @@
-Effective communicat
+Effective communica
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
