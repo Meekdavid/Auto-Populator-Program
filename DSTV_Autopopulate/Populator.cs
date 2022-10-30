@@ -1,4 +1,4 @@
-Effective communi
+Effective commun
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
