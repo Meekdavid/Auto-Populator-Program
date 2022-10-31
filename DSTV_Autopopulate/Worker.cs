@@ -1,4 +1,4 @@
-EFFECTIVE COM
+EFFECTIVE CO
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
