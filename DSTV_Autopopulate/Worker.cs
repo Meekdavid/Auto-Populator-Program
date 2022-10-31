@@ -1,4 +1,4 @@
-EFFECTIVE COMMUNI
+EFFECTIVE COMMUN
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
