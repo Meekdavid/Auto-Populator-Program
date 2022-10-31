@@ -1,4 +1,4 @@
-EFFECTIVE COMMUNICATION
+EFFECTIVE COMMUNICATIO
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
