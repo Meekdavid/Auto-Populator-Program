@@ -1,4 +1,4 @@
-Efficiency efficient usi
+Efficiency efficient us
 using System;
 using System.Collections.Generic;
 using System.Linq;
